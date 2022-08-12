@@ -8,7 +8,6 @@
 ### Main technologies: python3 + django + django-rest-framework
 ### VCS: Git
 ### DB: PostgreSQL
-### Deploy: docker compose
 
 
 ---
